@@ -13,7 +13,7 @@ setup(
     long_description=open('README.txt').read(),
     install_requires=[
         'requests',
-        'urllib'
+        'urllib==1.17'
     ],
 )
 
